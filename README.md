@@ -66,18 +66,39 @@ I am a robust **Backend Engineer** specializing in the JVM ecosystem. I focus on
 
 ### 📊 GitHub Activity & Metrics
 
+> [!NOTE]
+> **Why do some statistics cards show broken icons in local preview?**
+> The public servers for `github-readme-stats` and `github-profile-trophy` are heavily rate-limited and block requests originating from local IDE Markdown previews to prevent spam. **Don't worry!** Once you commit and push this `README.md` to your GitHub Profile repository (e.g., `its-vikash-Kushwaha/its-vikash-Kushwaha`), GitHub's official secure proxy (`camo.githubusercontent.com`) will fetch, cache, and display all cards flawlessly.
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=its-vikash-Kushwaha&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <!-- GitHub Streak (Always active and rendering) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-vikash-Kushwaha&theme=dracula" alt="GitHub Streak" width="48%" />
+  <!-- GitHub Activity Graph (Extremely stable alternative to stats card) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=its-vikash-Kushwaha&theme=dracula&bg_color=282a36&color=50fa7b&line=bd93f9&point=ff79c6" alt="GitHub Activity Graph" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-vikash-Kushwaha&theme=dracula&layout=compact" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=its-vikash-Kushwaha&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-vikash-Kushwaha&theme=dracula&layout=compact" alt="Top Languages" width="48%" />
 </p>
 
 #### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=its-vikash-Kushwaha&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" width="100%" />
+</p>
+
+---
+
+### 🏆 Problem Solving & DSA
+
+<p align="center">
+  <a href="https://leetcode.com/its-vikash-Kushwaha" target="_blank">
+    <img src="https://geps.dev/progress/85?text=DSA%20Mastery%20(400+%20LeetCode%20Solved)" alt="LeetCode Progress" width="70%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/its-vikash-Kushwaha"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode Profile" /></a>
 </p>
 
 ---
