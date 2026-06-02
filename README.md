@@ -5,13 +5,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Core_Expertise-Java_17_%7C_Spring_Boot-7B2FF7?style=flat-square" />&nbsp;
-  <img src="https://img.shields.io/badge/Cloud-AWS_%7C_OCI-00B4FF?style=flat-square" />&nbsp;
-  <img src="https://img.shields.io/badge/Web3-Solidity_%7C_Ethereum-F107A3?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cloud-AWS_%7C_OCI-00B4FF?style=flat-square" />
 </p>
 
 <!-- ══════════════ TYPING ANIMATION ══════════════ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=C060FF&center=true&vCenter=true&random=false&width=650&height=55&lines=%F0%9F%9A%80+Spring+Boot+%7C+Microservices+%7C+Java+17;%E2%9A%93%EF%B8%8F+Solidity+%7C+Ethereum+%7C+Web3.js;%F0%9F%94%A5+Building+things+that+scale!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=C060FF&center=true&vCenter=true&random=false&width=650&height=55&lines=%F0%9F%9A%80+Spring+Boot+%7C+Microservices+%7C+Java+17;%F0%9F%94%A5+Building+things+that+scale!" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -53,7 +52,6 @@
              CGPA: 8.2 / 10 🎓
  ─────────────────────────────────────
   Currently: ⚙️  Building scalable REST APIs
-             ⛓️  Developing with Web3 & Solidity
              ☁️  Working with AWS & OCI Cloud
  ─────────────────────────────────────
   Fun Fact : Coffee ☕ + code = 🔥 shipping
