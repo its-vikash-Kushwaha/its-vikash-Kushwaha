@@ -4,7 +4,7 @@
 <h3>🚀 Backend Developer &bull; Java & Spring Boot Engineer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Core_Expertise-Java_17_%7C_Spring_Boot-7B2FF7?style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/Core_Expertise-Java_22_%7C_Spring_Boot-7B2FF7?style=flat-square" />&nbsp;
   <img src="https://img.shields.io/badge/Cloud-AWS_%7C_OCI-00B4FF?style=flat-square" />
 </p>
 
