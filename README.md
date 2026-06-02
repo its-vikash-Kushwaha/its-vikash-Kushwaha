@@ -1,110 +1,323 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=40C463&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Vikash+Kushwaha;Backend+Developer+%7C+Java;Spring+Boot+%26+Microservices;400%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <strong>Crafting highly scalable, cloud-native backend architectures & distributed systems.</strong>
-</p>
+<!-- ══════════════ VIBRANT HEADER BANNER ══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7B2FF7,50:F107A3,100:7B2FF7&height=250&section=header&text=Vikash%20Kushwaha&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=⚡%20Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20Engineer%20⚡&descAlignY=62&descSize=19&descColor=ffe0ff&stroke=ffffff&strokeWidth=2" width="100%" />
 
-<p align="center">
-  <a href="https://linkedin.com/in/vikash-kushwaha-a97775250"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:vikashkus7309@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://instagram.com/its_vikash.kushwaha"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+<!-- ══════════════ TYPING ANIMATION ══════════════ -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=C060FF&center=true&vCenter=true&random=false&width=650&height=55&lines=🚀+Spring+Boot+%7C+Microservices+%7C+Java+17;⛓️+Solidity+%7C+Ethereum+%7C+Web3.js;☁️+AWS+Certified+%7C+OCI+Certified;🧠+420%2B+LeetCode+Problems+Crushed;🔥+Building+things+that+scale!" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- ══════════════ SOCIAL LINKS ══════════════ -->
+<a href="https://linkedin.com/in/vikash-kushwaha-a97775250">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+</a>&nbsp;
+<a href="mailto:vikashkus7309@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+</a>&nbsp;
+<a href="https://leetcode.com/its_vikash_kushwaha">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&labelColor=FFA116" />
+</a>&nbsp;
+<a href="https://github.com/its-vikash-Kushwaha">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=its-vikash-Kushwaha&style=for-the-badge&color=7B2FF7&label=👁️+Profile+Views" />
+
+</div>
+
+---
+
+<!-- ══════════════ ABOUT ME ══════════════ -->
+
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="360" />
+
+## 🧑‍💻 About Me
+
+```yaml
+╔══════════════════════════════════════╗
+  Name     : Vikash Kushwaha
+  Role     : Backend Developer
+  Location : Delhi-NCR, India 🇮🇳
+  Degree   : B.Tech CSE @ KIET, Delhi
+             CGPA: 8.2 / 10 🎓
+ ─────────────────────────────────────
+  Currently: ⚙️  Building scalable REST APIs
+             ⛓️  Crafting Ethereum smart contracts
+             ☁️  Architecting on AWS & OCI
+ ─────────────────────────────────────
+  Fun Fact : Coffee ☕ + code = 🔥 shipping
+╚══════════════════════════════════════╝
+```
+
+<br clear="right"/>
+
+---
+
+<!-- ══════════════ HIGHLIGHTS ══════════════ -->
+
+## ⚡ Career Highlights
+
+<div align="center">
+
+| 🏆 | Achievement | 🔢 Impact |
+|:---:|:---|:---:|
+| 💼 | **Backend Intern @ Infosys Springboard** (Dec 2025 – Feb 2026) | Enterprise-scale |
+| ⛓️ | **Ethereum Supply Chain** — Solidity + Web3.js | On-chain traceability |
+| 🧠 | **LeetCode Grind** — DSA mastery | **420+ solved** |
+| ☁️ | **AWS Certified Cloud Practitioner** · OCI Data Science Pro | Dual certified |
+| 🚀 | **REST APIs built & deployed** in production | **20+ APIs** |
+| 🐳 | **Dockerized microservices** — slashed setup time | **~70% faster** |
+
+</div>
+
+---
+
+<!-- ══════════════ TECH STACK ══════════════ -->
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+**⚙️ Backend & Languages**
+
+![Java](https://img.shields.io/badge/Java_17-FF6B35?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-C060FF?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+**⛓️ Blockchain & Web3**
+
+![Solidity](https://img.shields.io/badge/Solidity-F107A3?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-7B2FF7?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-00D4AA?style=for-the-badge&logo=ethereum&logoColor=white)
+
+**🗄️ Databases & Messaging**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-STOMP-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+**☁️ Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+<!-- ══════════════ EXPERIENCE ══════════════ -->
+
+## 💼 Work Experience
+
+<div align="center">
+<img src="https://img.shields.io/badge/🏢_Infosys_Springboard-00B4FF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Dec_2025_–_Feb_2026-7B2FF7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Role-Backend_Developer_Intern-F107A3?style=for-the-badge" />
+</div>
+
+<br/>
+
+```diff
++ ✅ Engineered 20+ RESTful APIs   → Java 17 + Spring Boot | JWT Auth | RBAC (5 roles)
++ ✅ Blockchain Integration         → Solidity smart contracts for Ethereum supply-chain
++ ✅ Database Architecture          → Normalized MySQL schemas + Google Maps geolocation
++ ✅ DevOps Transformation          → Dockerized all services → ~70% faster deployment
+```
+
+---
+
+<!-- ══════════════ PROJECTS ══════════════ -->
+
+## 🚀 Featured Projects
+
+### 🚂 IRCTC Railway Reservation System
+
+> **Production-ready** railway booking platform — secure, fast, and Dockerized
+
+<details>
+<summary>📋 <strong>View Project Details</strong></summary>
+
+<br/>
+
+| Feature | Detail |
+|:---|:---|
+| 🔗 Endpoints | 15+ REST APIs — search, book, cancel |
+| 🔐 Security | JWT + Spring Security with role-based access |
+| ⚡ Performance | Sub-100ms queries via Hibernate/JPA optimization |
+| 📖 Docs | Full Swagger/OpenAPI documentation |
+| 🐳 Deployment | Fully Dockerized for zero-config portability |
+
+</details>
+
+<p>
+<img src="https://img.shields.io/badge/Java_17-FF6B35?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-C060FF?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
 </p>
 
 ---
 
-### 🚀 About Me
+### 💬 Real-Time Chat Application
 
-I am a robust **Backend Engineer** specializing in the JVM ecosystem. I focus on developing clean, testable, and cloud-ready microservices, building secure APIs, and solving intricate computational problems (having solved **400+ algorithmic challenges**).
+> **High-throughput** WebSocket chat with Redis-powered ultra-low latency
 
-- 🔭 **Focus Areas:** Designing distributed systems with **Java**, **Spring Boot**, **Spring Security**, and **Docker**.
-- 🌱 **Learning & Growth:** Advancing my skills in **Kubernetes**, **AWS Cloud**, **CI/CD Automation**, and **System Design**.
-- 👯 **Collaboration:** Open to collaborating on backend services, cloud migration initiatives, and open-source packages.
-- 💬 **Expertise:** Ask me about RESTful APIs, relational databases, Spring lifecycle management, or DSA.
-- ⚡ **Philosophy:** Writing readable, decoupled, and self-documenting code is not just a standard—it's a discipline.
+<details>
+<summary>📋 <strong>View Project Details</strong></summary>
 
----
+<br/>
 
-### 🛠️ Tech Stack & Tooling
+| Feature | Detail |
+|:---|:---|
+| ⚡ Latency | <200ms message delivery via STOMP WebSockets |
+| 🗄️ Caching | Redis cache-aside → **60% less DB reads** |
+| 🏠 Rooms | Multi-room concurrent messaging |
+| 🔒 Security | Spring Security session management |
 
-<table width="100%">
-  <tr>
-    <td valign="top" width="50%">
-      <h4>🖥️ Backend & Frameworks</h4>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-      <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
-      <img src="https://img.shields.io/badge/Microservices-00599C?style=for-the-badge&logo=custom&logoColor=white" alt="Microservices" />
-    </td>
-    <td valign="top" width="50%">
-      <h4>⚙️ DevOps, Cloud & Pipelines</h4>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-      <img src="https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>🗄️ Databases & Cache</h4>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-    </td>
-    <td valign="top" width="50%">
-      <h4>🌐 Languages & Frontend</h4>
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    </td>
-  </tr>
-</table>
+</details>
 
----
-
-### 📊 GitHub Activity & Metrics
-
-> [!NOTE]
-> **Why do some statistics cards show broken icons in local preview?**
-> The public servers for `github-readme-stats` and `github-profile-trophy` are heavily rate-limited and block requests originating from local IDE Markdown previews to prevent spam. **Don't worry!** Once you commit and push this `README.md` to your GitHub Profile repository (e.g., `its-vikash-Kushwaha/its-vikash-Kushwaha`), GitHub's official secure proxy (`camo.githubusercontent.com`) will fetch, cache, and display all cards flawlessly.
-
-<p align="center">
-  <!-- GitHub Streak (Always active and rendering) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-vikash-Kushwaha&theme=dracula" alt="GitHub Streak" width="48%" />
-  <!-- GitHub Activity Graph (Extremely stable alternative to stats card) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=its-vikash-Kushwaha&theme=dracula&bg_color=282a36&color=50fa7b&line=bd93f9&point=ff79c6" alt="GitHub Activity Graph" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=its-vikash-Kushwaha&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-vikash-Kushwaha&theme=dracula&layout=compact" alt="Top Languages" width="48%" />
-</p>
-
-#### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=its-vikash-Kushwaha&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" width="100%" />
+<p>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
 ---
 
-### 🏆 Problem Solving & DSA
+### ⛓️ Blockchain Supply Chain Platform
 
-<p align="center">
-  <a href="https://leetcode.com/its-vikash-Kushwaha" target="_blank">
-    <img src="https://geps.dev/progress/85?text=DSA%20Mastery%20(400+%20LeetCode%20Solved)" alt="LeetCode Progress" width="70%" />
-  </a>
-</p>
+> **Decentralized** product traceability — every step immutable on Ethereum
 
-<p align="center">
-  <a href="https://leetcode.com/its-vikash-Kushwaha"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode Profile" /></a>
+<details>
+<summary>📋 <strong>View Project Details</strong></summary>
+
+<br/>
+
+| Feature | Detail |
+|:---|:---|
+| 📜 Smart Contracts | Solidity contracts on Ethereum for product lifecycle |
+| 🌐 Web3 Bridge | Web3.js connects backend ↔ blockchain |
+| 🗺️ Geolocation | Google Maps API for real-time location tracking |
+| 🔐 Backend | Spring Boot REST layer with full security |
+
+</details>
+
+<p>
+<img src="https://img.shields.io/badge/Solidity-F107A3?style=flat-square&logo=solidity&logoColor=white" />
+<img src="https://img.shields.io/badge/Ethereum-7B2FF7?style=flat-square&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
 </p>
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=its-vikash-Kushwaha&icon=8&color=05" alt="Profile Views" />
-  </a>
-</p>
+<!-- ══════════════ GITHUB STATS ══════════════ -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=its-vikash-Kushwaha&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=C060FF&icon_color=F107A3&text_color=ffffff&ring_color=7B2FF7" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=its-vikash-Kushwaha&theme=radical&hide_border=true&background=0d1117&ring=7B2FF7&fire=F107A3&currStreakLabel=C060FF&sideLabels=C060FF&dates=ffffff" width="49%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-vikash-Kushwaha&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=C060FF&text_color=ffffff&langs_count=8" width="42%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=its-vikash-Kushwaha&theme=redical&hide_border=true&bg_color=0d1117&color=C060FF&line=7B2FF7&point=F107A3&area=true&area_color=7B2FF7" width="98%" />
+
+</div>
+
+---
+
+<!-- ══════════════ CERTIFICATIONS ══════════════ -->
+
+## 🏅 Certifications
+
+<div align="center">
+
+| 🏆 | Certification | 🏢 Issuer | 📅 Valid Until |
+|:---:|:---|:---|:---|
+| ☁️ | **AWS Certified Cloud Practitioner** | Amazon Web Services | **Mar 2029** |
+| 🔬 | **OCI Data Science Professional** | Oracle Cloud Infrastructure | **Oct 2027** |
+
+<br/>
+
+<img src="https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/OCI_Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+
+</div>
+
+---
+
+<!-- ══════════════ LEETCODE ══════════════ -->
+
+## 🧠 LeetCode Journey
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/its_vikash_kushwaha?theme=dark&font=Karma&ext=heatmap&border=0&radius=10" width="58%" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/420%2B_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/DSA-Expert-7B2FF7?style=for-the-badge&logo=thealgorithms&logoColor=white" />
+
+</div>
+
+---
+
+<!-- ══════════════ CURRENTLY LEARNING ══════════════ -->
+
+## 🔭 Currently Exploring
+
+<div align="center">
+
+```bash
+$ cat current_roadmap.txt
+
+  🌐  Spring Cloud Gateway + Service Mesh (Istio)
+  ☸️  Advanced Kubernetes — Helm, Operators & HPA
+  💡  DeFi protocols & Layer-2 Ethereum (Polygon, Arbitrum)
+  🤖  Integrating LLM inference into Spring Boot microservices
+  📐  System Design at scale — millions of concurrent users
+```
+
+</div>
+
+---
+
+<!-- ══════════════ FOOTER ══════════════ -->
+
+<div align="center">
+
+<!-- GitHub snake animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/its-vikash-Kushwaha/its-vikash-Kushwaha/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/its-vikash-Kushwaha/its-vikash-Kushwaha/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/its-vikash-Kushwaha/its-vikash-Kushwaha/output/github-snake.svg" />
+</picture>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F107A3,50:7B2FF7,100:C060FF&height=130&section=footer&animation=twinkling" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=C060FF&center=true&vCenter=true&width=520&lines=✨+Thanks+for+stopping+by!+✨;💡+Let's+connect+and+build+together!;🚀+Open+to+exciting+opportunities!" />
+
+</div>
