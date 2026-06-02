@@ -1,7 +1,13 @@
 <div align="center">
 
-<!-- ══════════════ VIBRANT HEADER BANNER ══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7B2FF7,50:F107A3,100:7B2FF7&height=220&section=header&text=Vikash%20Kushwaha&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=%E2%9A%A1%20Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20Engineer%20%E2%9A%A1&descAlignY=62&descSize=18&descColor=ffe0ff&v=1.0.1" width="100%" />
+<h1>👋 Hi, I'm Vikash Kushwaha</h1>
+<h3>🚀 Backend Developer &bull; Java & Spring Boot Engineer</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Core_Expertise-Java_17_%7C_Spring_Boot-7B2FF7?style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/Cloud-AWS_%7C_OCI-00B4FF?style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/Web3-Solidity_%7C_Ethereum-F107A3?style=flat-square" />
+</p>
 
 <!-- ══════════════ TYPING ANIMATION ══════════════ -->
 <a href="https://git.io/typing-svg">
