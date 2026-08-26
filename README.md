@@ -4,18 +4,17 @@
 <h3>🚀 Backend Developer &bull; Java & Spring Boot Engineer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Core_Expertise-Java_22_%7C_Spring_Boot-7B2FF7?style=flat-square" />&nbsp;
-  <img src="https://img.shields.io/badge/Cloud-AWS_%7C_OCI-00B4FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Core_Expertise-Java_%7C_Spring_Boot-7B2FF7?style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/Cloud-AWS_%7C_OCI-00B4FF?style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-brightgreen?style=flat-square" />
 </p>
 
-<!-- ══════════════ TYPING ANIMATION ══════════════ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=C060FF&center=true&vCenter=true&random=false&width=650&height=55&lines=%F0%9F%9A%80+Spring+Boot+%7C+Microservices+%7C+Java+17;%F0%9F%94%A5+Building+things+that+scale!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=C060FF&center=true&vCenter=true&random=false&width=650&height=55&lines=%F0%9F%9A%80+Spring+Boot+%7C+Microservices+%7C+Java;%F0%9F%94%A5+Building+things+that+scale!;%E2%9C%85+400%2B+LeetCode+problems+solved" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- ══════════════ SOCIAL LINKS ══════════════ -->
 <a href="https://linkedin.com/in/vikash-kushwaha-a97775250">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;
@@ -37,60 +36,49 @@
 
 ---
 
-<!-- ══════════════ ABOUT ME ══════════════ -->
-
-<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="360" />
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="340" />
 
 ## 🧑‍💻 About Me
 
 ```yaml
-╔══════════════════════════════════════╗
-  Name     : Vikash Kushwaha
-  Role     : Backend Developer
-  Location : Delhi-NCR, India 🇮🇳
-  Degree   : B.Tech CSE @ KIET, Delhi
-             CGPA: 8.2 / 10 🎓
- ─────────────────────────────────────
-  Currently: ⚙️  Building scalable REST APIs
-             ☁️  Working with AWS & OCI Cloud
- ─────────────────────────────────────
-  Fun Fact : Coffee ☕ + code = 🔥 shipping
-╚══════════════════════════════════════╝
+Name     : Vikash Kushwaha
+Role     : Backend Developer (Java / Spring Boot)
+Location : Delhi-NCR, India 🇮🇳
+Education: B.Tech CSE @ KIET Group of Institutions (AKTU) — 2027
+           CGPA: 8.3 / 10
+Certified: AWS Certified Cloud Practitioner
+           Oracle OCI Data Science Professional
+Currently: ⚙️  Building scalable REST APIs with Spring Boot
+           🌱 Contributing to open source via GSSoC '26
+           🔎 Actively looking for backend engineering roles
 ```
 
 <br clear="right"/>
 
 ---
 
-<!-- ══════════════ TECH STACK ══════════════ -->
-
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
-**⚙️ Backend & Languages**
+**⚙️ Backend & Core**
 
-![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
-**⛓️ Blockchain & Web3**
-
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-
-**🗄️ Databases & Messaging**
+**🗄️ Databases & Caching**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 **☁️ Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -100,7 +88,11 @@
 
 ---
 
-<!-- ══════════════ GITHUB STATS ══════════════ -->
+## 🌱 Open Source & Contributions
+
+- **GSSoC '26 Contributor** — [leet-journal](https://github.com/) (Spring Boot 4.0.1, Java 25, OAuth2 Authorization Server 2.x): implemented a global exception handler and fixed a CSRF security vulnerability in `AuthSecurityConfig.java`.
+
+---
 
 ## 📊 GitHub Analytics
 
@@ -120,9 +112,6 @@
 </div>
 
 ---
-
-
-<!-- ══════════════ FOOTER ══════════════ -->
 
 <div align="center">
 
